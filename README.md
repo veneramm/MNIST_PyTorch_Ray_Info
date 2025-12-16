@@ -12,8 +12,8 @@
 ### **Performance Metrics**
 The model achieves convergence within 10 epochs, showing stable gradient descent. 
 
-* **Final Testing Accuracy:** '>98%'
-* **Final Training Loss:** '<0.04'
+* **Final Testing Accuracy:** >98%
+* **Final Training Loss:** <0.04
 
 ![Loss Convergence](loss_convergence_plot_ex.png)
 *Generated via aggregation of distributed metrics*
